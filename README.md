@@ -1,2 +1,2 @@
 # Kronos-Proxy-v1.00
-Version 1 of an advanced internet proxy
+Version 1 of an advanced internet proxy *Currently Broken 
